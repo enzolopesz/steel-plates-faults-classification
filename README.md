@@ -157,7 +157,7 @@ steel-plates-faults-classification/
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/steel-plates-faults-classification.git
+git clone https://github.com/enzolopesz/steel-plates-faults-classification.git
 cd steel-plates-faults-classification
 ```
 
